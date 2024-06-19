@@ -1,0 +1,16 @@
+tenacity==8.3.0
+grpcio==1.60.0
+langchain
+langchain_openai
+langchain_community
+langchain_experimental
+langsmith
+langgraph
+langchainhub
+pymilvus
+flask
+python-dotenv
+fastapi==0.108.0
+uvicorn==0.25.0
+python-multipart==0.0.9
+pydantic
