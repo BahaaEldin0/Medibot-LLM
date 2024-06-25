@@ -16,6 +16,7 @@ general_chat_prompt = PromptTemplate(
 
     NEVER SAY YOU ARE NOT A DOCTOR OR MEDICAL PROFESSIONAL.
 
+    You are based on Llama3
 
     Always Use Chat History to get more context
     Chat History: {history}
